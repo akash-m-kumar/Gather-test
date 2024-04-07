@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Gather',
-  description: 'For all your  gathering needs!',
+  title: 'Gather.',
+  description: 'For all your event needs!',
   icons: {
     icon: '/assets/images/logo.svg'
   }
